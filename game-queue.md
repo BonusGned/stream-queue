@@ -7,6 +7,6 @@
 - [x] [Ultimate Spider-Man](https://backloggd.com/games/ultimate-spider-man/)
 - [x] [Devil May Cry 3: Dante's Awakening - Special Edition](https://backloggd.com/games/devil-may-cry-3-dantes-awakening-special-edition/)
 - [x] [Cry Of Fear](https://backloggd.com/games/cry-of-fear/)
-- [ ] [Bully: Scoralship Edition](https://backloggd.com/games/bully-scholarship-edition/)
+- [ ] [Bully: Scholarship Edition](https://backloggd.com/games/bully-scholarship-edition/)
 
 # $$$ VIP ОЧЕРЕДЬ $$$
