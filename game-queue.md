@@ -6,6 +6,7 @@
 - [x] [The Legend of Zelda: Ocarina Of Time](https://backloggd.com/games/the-legend-of-zelda-ocarina-of-time/)
 - [x] [Ultimate Spider-Man](https://backloggd.com/games/ultimate-spider-man/)
 - [x] [Devil May Cry 3: Dante's Awakening - Special Edition](https://backloggd.com/games/devil-may-cry-3-dantes-awakening-special-edition/)
-- [ ] [Cry Of Fear](https://backloggd.com/games/cry-of-fear/)
+- [x] [Cry Of Fear](https://backloggd.com/games/cry-of-fear/)
+- [ ] [Bully: Scoralship Edition](https://backloggd.com/games/bully-scholarship-edition/)
 
 # $$$ VIP ОЧЕРЕДЬ $$$
